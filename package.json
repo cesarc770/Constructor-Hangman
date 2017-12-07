@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "node Hangman Game that can run in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarc770/Constructor-Hangman.git"
+  },
+  "author": "Cesar Caceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarc770/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/cesarc770/Constructor-Hangman#readme",
+  "dependencies": {
+    "random-number": "0.0.9"
+  }
+}
