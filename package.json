@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cesarc770/Constructor-Hangman#readme",
   "dependencies": {
+    "inquirer": "^4.0.1",
     "random-number": "0.0.9"
   }
 }

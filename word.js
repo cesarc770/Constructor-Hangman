@@ -13,12 +13,14 @@ var Word =  function(wordList){
 		}
 
 		this.currentWord = this.wordList[rn(options)];
-		console.log(this.currentWord);
+		return this.currentWord;
 	}
-};
+
+}
 
 //Test
-// var example = new Word(wordList);
+//  var example = new Word(wordList);
 // example.getWord();
+
 
 module.exports = Word;
